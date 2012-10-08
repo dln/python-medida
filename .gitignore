@@ -1,0 +1,15 @@
+*.c
+*.egg-info/
+*.pyc
+*.pyo
+*.so
+.coverage
+/build
+/debian/*.debhelper
+/debian/*.log
+/debian/*.substvars
+/debian/files
+/debian/python-medida/
+/debian/tmp/
+/dist/
+/medida/*.cpp
